@@ -1,4 +1,5 @@
 🎲 Sorteador de Pessoas e Times — em C
+
 Um programa em C que permite cadastrar pessoas, visualizar a lista, remover nomes e realizar sorteios tanto de pessoas quanto de times.
 Feito para ser rápido, simples e funcional — rodando direto no terminal.
 🚀 Funcionalidades
